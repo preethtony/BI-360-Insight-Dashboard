@@ -27,6 +27,8 @@ During this project, I acquired the following skills and knowledge:
 
 **Click the below link to engage with the live Power BI project.**
 
-**Link:** _[Live Project Demonstration](https://www.youtube.com/embed/iK4mL4dCqzg?si=iA2Yir0neWlDhLXe)_
+**Live Dashboard** _[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTI4NTE3YWUtMWU4Zi00Y2E3LTk0YzAtY2RhNGY2NTI2NWUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+
+**Project Demonstration:** _[Project Demonstration](https://www.youtube.com/embed/iK4mL4dCqzg?si=iA2Yir0neWlDhLXe)_
 
 **BI Dashboard:** _[Preethi Tony's BI Dashboard](https://www.novypro.com/profile_projects/preethitony)_
