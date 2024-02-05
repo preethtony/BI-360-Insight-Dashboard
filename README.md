@@ -1,4 +1,4 @@
-## ABOUT COMPANY:
+## Problem Statement:
 
 AtliQ Hardware, a consumer electronics firm, faces tough competition due to limited data usage, mainly relying on Excel for reports. My objective is to implement a robust Power BI analytics solution, enabling the company to gain crucial insights for smarter decision-making.
 
